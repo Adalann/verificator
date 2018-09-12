@@ -16,7 +16,7 @@ python3 verificator.py
 
 The script will ask you the url of the GitHub repo (use this format : https://github.com/user/repo-name.git ) and the path to the local repo.
 
-If some modification are detected, the script will prompt the list of the edited files.
+If some modifications are detected, the script will prompt the list of the edited files.
 
 You can specify the url and path directly in arguments :
 

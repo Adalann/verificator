@@ -1,6 +1,6 @@
 # Validator
 
-This script is meant to test the integrity of a GitHub repository. The script generate the sha256 hashes of a local repo and compare them with the GitHub repo. If everything's match no problem, otherwise the local repo that you got may have been modified in a dangerous way. The goal is to detect malicious code injection.
+This script is meant to test the integrity of a GitHub repository. The script generate the sha256 hashes of a local repo and compare them with the GitHub repo. If everything's match, no problem, otherwise the local repo that you got may have been modified in a dangerous way. The goal is to detect malicious code injection.
 
 # Compatibility
 
